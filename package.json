@@ -1,0 +1,24 @@
+{
+  "name": "html-practice",
+  "version": "1.0.0",
+  "description": "HTML／Javascript／css等々の練習用リポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files '**/*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiyo-learn/html-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiyo-learn/html-practice/issues"
+  },
+  "homepage": "https://github.com/kiyo-learn/html-practice#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
